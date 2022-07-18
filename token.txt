@@ -1,0 +1,3 @@
+Ключ trello
+Токен Trello
+ID Доски
